@@ -1,0 +1,21 @@
+Nome do BD: agenda
+usuario:root
+senha:<vazia>
+Endereço:localhost
+Porta:3306
+
+tabela:agenda
+- id, inteiro,pk,not null
+- nome, varchar(50),bot null
+- fone_res,varchar(15)
+- fone_cel, varchar(15), not null
+- email, varchar(50), not null,
+- dt_nasc, date
+- endereço, varchar(60)
+- bairro, varchar(40)
+- cp, varchar(9)
+- uf, char(2)
+- foto, varchar(200)
+- facebook, varchar(200),
+- twitter, varchar(200),
+- instagram, varchar(200)
