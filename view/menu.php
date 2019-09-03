@@ -20,7 +20,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">operações <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="http://localhost/agenda/view/cadastrar.php">Cadastra</a></li>
+            <li><a href="http://localhost/agenda2/bootstrap/view/cadastrar.php">Cadastra</a></li>
             <li><a href="#">Consultar</a></li>
             <li><a href="#">Alterar</a></li>
             <li role="separator" class="divider"></li>

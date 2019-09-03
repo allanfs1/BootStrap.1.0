@@ -31,6 +31,17 @@
    <label for="Celular">Celular</label><span class"text-red">*</span>
    <input type="text" name="celular" id="celular" required class="form-control">
   </div>
+
+  <div class="forms-group">
+  <label for="data">Data</label><span class"text-read">*</span>
+  <input  type="text" name="data" id="daya" require class="form-control">
+  </div>
+
+  <div class="forms-group">
+  <label for="endereco">Endereço</label><span class"text-read">*</span>
+  <input  type="text" name="endereco" id="enndereco" require class="form-control">
+  </div>
+
   
 </forms>
 
